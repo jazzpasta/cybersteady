@@ -1,0 +1,10 @@
+﻿公司,Ticker,FY26 P/E,FY27 P/E,FY28 P/E
+三菱重工 MHI,7011 JP,29.9,25.5,21.9
+日立 Hitachi,6501 JP,25.2,21.0,18.0
+三菱電機 MELCO,6503 JP,20.0,17.9,15.7
+Panasonic,6752 JP,21.1,17.1,14.5
+富士電機 Fuji Electric,6504 JP,17.5,16.3,14.3
+ROHM,6963 JP,41.2,28.5,21.8
+Renesas,6723 JP,13.9,12.0,10.4
+
+注：Bloomberg consensus，2026-09-28 股价；FY26 = 截至 2027-03 的财年（Renesas 为 2026-12）
